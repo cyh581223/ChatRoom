@@ -1,2 +1,2 @@
 # ChatRoom
-chat room system
+chat room system written in python by google colab
